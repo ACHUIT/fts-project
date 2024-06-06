@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/fts-new/static/js/main.ab522e4a.js",
-    "index.html": "/fts-new/index.html",
-    "main.ab522e4a.js.map": "/fts-new/static/js/main.ab522e4a.js.map"
+    "main.js": "/fts-project/static/js/main.ab522e4a.js",
+    "index.html": "/fts-project/index.html",
+    "main.ab522e4a.js.map": "/fts-project/static/js/main.ab522e4a.js.map"
   },
   "entrypoints": [
     "static/js/main.ab522e4a.js"
